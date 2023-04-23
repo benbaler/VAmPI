@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "applicationId": "bb433574-cd9d-422e-ae8f-814bac844d7f",
+  "host": "http://host.docker.internal:5002",
+  "sources": [
+    {
+      "name": "VAmPI OAS",
+      "openApi": {
+        "sourcePath": "/openapi_specs/openapi3.yml"
+      }
+    }
+  ],
+  "auths": []
+}
