@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ACTIVE_API_URL: 'https://active-v2-poc.nonamesec.com/active'
+  ACTIVE_API_URL: 'http://34.228.58.175/active'
 
 jobs:
   scan:
